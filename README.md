@@ -4,10 +4,6 @@ A RESTful web service built with **Spring Boot** that manages employee data, sup
 
 ---
 
-## 📌 About the Simulation
-
-This project was completed as part of the **HPE Software Engineering Virtual Experience Program** on Forage — a job simulation designed to give hands-on exposure to real-world software engineering tasks at Hewlett Packard Enterprise.
-
 **Tasks completed:**
 - ✅ Task 1 — Designed a RESTful Web Service proposal (Spring Boot, HPE GreenLake, Docker/Kubernetes, JWT)
 - ✅ Task 2 — Built a Spring Boot REST API with GET and POST endpoints for employee management
